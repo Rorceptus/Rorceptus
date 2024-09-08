@@ -37,7 +37,42 @@ Collaboration is key, and I'm enthusiastic about working together if my skills a
 <img src="https://github.com/Rorceptus/Rorceptus/blob/main/Logos/Tools/Python.png" alt="Python" width="50"/>
 <img src="https://github.com/Rorceptus/Rorceptus/blob/main/Logos/Tools/MySQL.png" alt="MySQL" width="100"/>
 <img src="https://github.com/Rorceptus/Rorceptus/blob/main/Logos/Tools/Ubuntu.png" alt="Ubuntu" width="50"/>
+<img src="https://github.com/Rorceptus/Rorceptus/blob/main/Logos/Tools/Canva.png" alt="Canva" width="50"/>
   
 </div>
 
 ---
+
+## ⚙ My Stats:
+<div align = "center">
+
+![Rorceptus's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rorceptus&theme=radical&hide_border=true)<br>
+![Rorceptus's Stats](https://github-readme-stats.vercel.app/api?username=rorceptus&theme=radical&show_icons=true&hide_border=true&count_private=true)<br>
+![Rorceptus's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rorceptus&theme=radical&show_icons=true&hide_border=true&layout=compact)
+
+</div>
+
+## 🔼 Top Contributed Repo:
+<div align = "center">
+  
+![](https://github-contributor-stats.vercel.app/api?username=Rorceptus&limit=5&theme=radical&hide_border=true&combine_all_yearly_contributions=true)
+
+</div>
+
+## 🏆 My Trophies:
+<div align = "center">
+  
+![](https://github-profile-trophy.vercel.app/?username=Rorceptus&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+</div>
+
+## ✍ Dev Quote:
+<div align = "center">
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+</div>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=Rorceptus&icon=2&color=12)](https://visitcount.itsvg.in)
