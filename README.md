@@ -26,12 +26,18 @@ Collaboration is key, and I'm enthusiastic about working together if my skills a
 <div align = "center">
 
 [<img src="https://github.com/Rorceptus/Rorceptus/blob/main/Logos/Contact/Discord.jpg" alt="Discord" width="50"/>](https://discord.gg/gGvayJfFZW)
+[<img src="https://github.com/Rorceptus/Rorceptus/blob/main/Logos/Contact/Instagram.png" alt="Instagram" width="50"/>](https://www.instagram.com/rorceptus/)
 [<img src="https://github.com/Rorceptus/Rorceptus/blob/main/Logos/Contact/LinkedIn.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/aaravmalikofficial/)
   
 </div>
 
 ## 🧰 Mastered Tools:
 <div align = "center">
+
+<img src="https://github.com/Rorceptus/Rorceptus/blob/main/Logos/Tools/Python.png" alt="Python" width="50"/>
+<img src="https://github.com/Rorceptus/Rorceptus/blob/main/Logos/Tools/MySQL.png" alt="MySQL" width="100"/>
+<img src="https://github.com/Rorceptus/Rorceptus/blob/main/Logos/Tools/Ubuntu.png" alt="Ubuntu" width="50"/>
+  
 </div>
 
 ---
