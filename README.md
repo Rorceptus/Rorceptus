@@ -24,6 +24,9 @@ Collaboration is key, and I'm enthusiastic about working together if my skills a
 
 ## ☎️ Say Hello:
 <div align = "center">
+
+[<img src = "" alt = "Discord" width = "50"
+  
 </div>
 
 ## ⚙️ Mastered Tools:
