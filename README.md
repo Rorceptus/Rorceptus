@@ -25,7 +25,8 @@ Collaboration is key, and I'm enthusiastic about working together if my skills a
 ## ☎️ Say Hello:
 <div align = "center">
 
-[<img src = "" alt = "Discord" width = "50"
+[<img src="https://github.com/Rorceptus/Rorceptus/blob/main/Logos/Contact/Discord.jpg" alt="Discord" width="50"/>](https://discord.gg/gGvayJfFZW)
+[<img src="https://github.com/Rorceptus/Rorceptus/blob/main/Logos/Contact/LinkedIn.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/aaravmalikofficial/)
   
 </div>
 
