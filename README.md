@@ -22,7 +22,7 @@ Collaboration is key, and I'm enthusiastic about working together if my skills a
 
 ---
 
-## ☎️ Say Hello:
+## ☎️ Get In Touch:
 <div align = "center">
 
 [<img src="https://github.com/Rorceptus/Rorceptus/blob/main/Logos/Contact/Discord.jpg" alt="Discord" width="50"/>](https://discord.gg/gGvayJfFZW)
@@ -30,7 +30,7 @@ Collaboration is key, and I'm enthusiastic about working together if my skills a
   
 </div>
 
-## ⚙️ Mastered Tools:
+## 🧰 Mastered Tools:
 <div align = "center">
 </div>
 
