@@ -27,6 +27,7 @@ Collaboration is key, and I'm enthusiastic about working together if my skills a
 
 [<img src="https://github.com/Rorceptus/Rorceptus/blob/main/Logos/Contact/Discord.jpg" alt="Discord" width="50"/>](https://discord.gg/gGvayJfFZW)
 [<img src="https://github.com/Rorceptus/Rorceptus/blob/main/Logos/Contact/Instagram.png" alt="Instagram" width="50"/>](https://www.instagram.com/rorceptus/)
+[<img src="https://github.com/Rorceptus/Rorceptus/blob/main/Logos/Contact/Twitter.jpg" alt="X" width="50"/>](https://x.com/rorceptus)
 [<img src="https://github.com/Rorceptus/Rorceptus/blob/main/Logos/Contact/LinkedIn.png" alt="LinkedIn" width="50"/>](https://www.linkedin.com/in/aaravmalikofficial/)
   
 </div>
